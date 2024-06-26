@@ -5,3 +5,4 @@ theme:
 plugins: 
   - blog:
       categories: true
+      blog_dir: .
